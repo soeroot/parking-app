@@ -1,4 +1,4 @@
-module soeroot/parking-app
+module github.com/soeroot/parking-app
 
 go 1.25.4
 

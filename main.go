@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"soeroot/parking-app/service"
+	"github.com/soeroot/parking-app/service"
 )
 
 func main() {

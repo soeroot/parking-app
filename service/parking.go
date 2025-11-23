@@ -9,8 +9,8 @@ import (
 	"strconv"
 	"strings"
 
-	constant "soeroot/parking-app/const"
-	"soeroot/parking-app/models"
+	constant "github.com/soeroot/parking-app/const"
+	"github.com/soeroot/parking-app/models"
 )
 
 type ParkingService struct {
